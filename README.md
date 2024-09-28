@@ -1,8 +1,20 @@
 
 # 2048 game
 
+<<<<<<< HEAD
 
  Obligatory methods (used in tests):
+=======
+Hey! Are you ready for a real hard check of your JavaScript skills, ninja?
+If you are still here, let's do it.
+
+In this task, you need to implement the 2048 game like in [this reference](https://play2048.co/)
+Don't play for too long! We need you to write the code!
+
+Okay, what do we have?
+1) HTML and CSS are already written. You can use it, or implement your own design if you want.
+2) Base `Game` class structure is already written too. Extend it with your own methods. Obligatory methods (used in tests):
+>>>>>>> b8ec4e1 (Update README.md)
   - constructor with `initialState` parameter (value is optional, defaults to the empty board)
   - `getState()`
   - `getScore()`
@@ -14,11 +26,19 @@
   - `start()`
   - `restart()`
 
+<<<<<<< HEAD
  Reference.
 
 That's it!
 
  rules:
+=======
+3) Reference.
+
+That's it!
+
+Okay, okay. Also, we have some rules:
+>>>>>>> b8ec4e1 (Update README.md)
 1) The game field is 4 x 4
 2) Each cell can be empty or contain one of the numbers: 2, 4, 8 ... 2^n
 3) The player can move cells with keyboard arrows
@@ -52,9 +72,8 @@ You can change the HTML/CSS layout if you need it.
 
 ![Preview](./src/images/reference.png)
 
-- [DEMO LINK](https://MariaKolisnyk.github.io/2048game/)
-
 ## Deploy and Pull Request
+    - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
 
     - Run `npm run test` command to test your code;
     - Run `npm run test:only -- -n` to run fast test ignoring linter;
@@ -65,3 +84,5 @@ You can change the HTML/CSS layout if you need it.
    HTML5
    CSS3 (SCSS)
    JavaScript (ES6)
+
+
