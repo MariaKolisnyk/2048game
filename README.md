@@ -2,6 +2,7 @@
 # 2048 game
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  Obligatory methods (used in tests):
 =======
@@ -15,6 +16,10 @@ Okay, what do we have?
 1) HTML and CSS are already written. You can use it, or implement your own design if you want.
 2) Base `Game` class structure is already written too. Extend it with your own methods. Obligatory methods (used in tests):
 >>>>>>> b8ec4e1 (Update README.md)
+=======
+
+ Obligatory methods (used in tests):
+>>>>>>> cc0bf0f (Update README.md)
   - constructor with `initialState` parameter (value is optional, defaults to the empty board)
   - `getState()`
   - `getScore()`
@@ -26,6 +31,7 @@ Okay, what do we have?
   - `start()`
   - `restart()`
 
+<<<<<<< HEAD
 <<<<<<< HEAD
  Reference.
 
@@ -39,6 +45,13 @@ That's it!
 
 Okay, okay. Also, we have some rules:
 >>>>>>> b8ec4e1 (Update README.md)
+=======
+ Reference.
+
+That's it!
+
+ rules:
+>>>>>>> cc0bf0f (Update README.md)
 1) The game field is 4 x 4
 2) Each cell can be empty or contain one of the numbers: 2, 4, 8 ... 2^n
 3) The player can move cells with keyboard arrows
