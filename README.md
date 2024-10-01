@@ -52,11 +52,11 @@ You can change the HTML/CSS layout if you need it.
 
 ![Preview](./src/images/reference.png)
 
-- [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
- - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
+- [DEMO LINK](https://MariaKolisnyk.github.io/2048game/)
+ - [DEMO LINK](https://MariaKolisnyk.github.io/<2048game>/)
 
 ## Deploy and Pull Request
-    - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
+    - [DEMO LINK](https://MariaKolisnyk.github.io/2048game/)
 
     - Run `npm run test` command to test your code;
     - Run `npm run test:only -- -n` to run fast test ignoring linter;
