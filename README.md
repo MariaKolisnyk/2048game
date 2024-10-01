@@ -53,7 +53,7 @@ You can change the HTML/CSS layout if you need it.
 ![Preview](./src/images/reference.png)
 
 - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
-
+ - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
 
 ## Deploy and Pull Request
     - [DEMO LINK](https://<MariaKolisnyk>.github.io/<2048game>/)
